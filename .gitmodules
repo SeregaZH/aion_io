@@ -1,9 +1,12 @@
-[submodule "aion_control"]
-	path = aion_control
+[submodule "src/aion_control"]
+	path = src/aion_control
 	url = https://github.com/aionrobotics/aion_control.git
-[submodule "aion_descriptions/aion_r1_description"]
-	path = aion_descriptions/aion_r1_description
+[submodule "src/aion_descriptions/aion_r1_description"]
+	path = src/aion_descriptions/aion_r1_description
 	url = https://github.com/aionrobotics/aion_r1_description.git
-[submodule "aion_simulator/aion_r1_gazebo"]
-	path = aion_simulator/aion_r1_gazebo
+[submodule "src/aion_simulator/aion_r1_gazebo"]
+	path = src/aion_simulator/aion_r1_gazebo
 	url = https://github.com/aionrobotics/aion_r1_gazebo.git
+[submodule "src/robot_pose_publisher"]
+	path = src/robot_pose_publisher
+	url = https://github.com/SeregaZH/robot_pose_publisher.git
